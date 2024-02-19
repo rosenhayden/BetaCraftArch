@@ -1,5 +1,6 @@
 # BetaCraft for Arch Linux
 A short guide on how to get beta craft working on Arch Linux
+
 ![screen](https://github.com/rosenhayden/BetaCraftArch/assets/91492781/922a6f92-02d3-4ae4-9321-e854246a7c71)
 
 ## Download the BetaCraft Launcher
