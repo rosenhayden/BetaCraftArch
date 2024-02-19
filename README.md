@@ -35,3 +35,5 @@ Select the version you want with the *Select version* tab. Example: 1.7.3
 Add a player name, it's local so it can be whatever.
 
 **Launch The Game with the *Play* button**
+
+![mc_map_0000](https://github.com/rosenhayden/BetaCraftArch/assets/91492781/55c363ff-733a-482e-b61a-2de6e451ed0b)
